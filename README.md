@@ -12,4 +12,4 @@ Mail: obent@qq.com
 
 您可以通过扫描下面的二维码赞助我。留言您的联系方式，我会将您添加到我的 [赞助列表](https://i.yujienb.cn/help.html)
 
-![img](https://ae02.alicdn.com/kf/H7c8e13cbe2d34c80bb08e945df89a7efW.jpg)
+![img](https://cdn.jsdelivr.net/gh/obentnet/imXinJieCDN@0.0.1/public/help.jpg)
