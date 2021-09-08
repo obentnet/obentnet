@@ -7,8 +7,9 @@ Hi!我是狱杰<br/>
 QQ: 1283224552<br/>
 WeChat: obentcn<br/>
 Mail: obent@qq.com
-# 0x4 = "赞助我"
 
-您可以通过扫描下面的二维码赞助我。留言您的联系方式，我会将您添加到我的 [赞助列表](https://yujienb.cn/help.html)
-
-![img](https://7nmana.dxinj.com/uploads/2021/07/09/aRHGMgmR_All_zip.png)
+# 0x2
+会一小点点的技能,了解一下？
+ - 前端 ( HTML,CSS3,Javascript );
+ - 后端 ( PHP );
+ - 其他 ( PS,PR,AE ) 
