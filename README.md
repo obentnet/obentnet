@@ -13,3 +13,6 @@ Mail: obent@qq.com
  - 前端 ( HTML,CSS3,Javascript );
  - 后端 ( PHP );
  - 其他 ( PS,PR,AE ) 
+
+
+![obentnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=obentnet)
