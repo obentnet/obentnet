@@ -13,7 +13,6 @@ Mail: obent@qq.com
  - 后端 ( PHP );
  - 其他 ( PS,PR,AE ) 
 
-![my_website](https://img.uegee.com/i/2023/10/13/qwb2a8.png)
 
 
 ![obentnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=obentnet)
