@@ -5,7 +5,7 @@ Hi!我是狱杰UEGEE<br/>
 如果您有任何需要帮助或者其他事宜，可以通过下面的联系方式找到我<br/>
 QQ: 1283224552<br/>
 WeChat: obentcn<br/>
-Mail: obent@qq.com
+Mail: i@uegee.com
 
 # 0x2
 会一小点点的技能,了解一下？
@@ -16,3 +16,4 @@ Mail: obent@qq.com
 
 
 ![obentnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=obentnet)
+
