@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm UEGEE (Obentnet)
 
-> Visite My Article 👉[UEGEE's Blog](https://uegee.com) (Powered By [NeHex](https://github.com/nehex)
+> Visite My Article 👉[UEGEE's Blog](https://uegee.com) (Powered By [NeHex](https://github.com/nehex))
 >
 
 ## 😋 About Me
