@@ -43,6 +43,10 @@
 [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obentnet&theme=2077)](https://github.com/obentnet)
 [![GitHub Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obentnet&theme=2077&utcOffset=8)](https://github.com/obentnet)
 
+---
+
+![Metrics](./github-metrics.svg)
+
 [prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white
 [vitest-badge]: https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff
 [fastapi-badge]: https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white
