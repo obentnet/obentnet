@@ -45,8 +45,6 @@
 
 ---
 
-![Metrics](./github-metrics.svg)
-
 [prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white
 [vitest-badge]: https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff
 [fastapi-badge]: https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white
